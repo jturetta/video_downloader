@@ -113,7 +113,7 @@ A pasta é criada se ainda não existir.
 | `ytdlp_helper.py` | Download, menu de texto e linha de comando |
 | `ytdlp_ui.py` | Interface gráfica em tkinter |
 | `requirements.txt` | Dependências Python |
-| `guia-yt-dlp.md` | Exemplos curtos de comando do yt-dlp, sem a interface |
+| `Video Downloader.spec` | Receita para gerar o aplicativo do macOS |
 
 ## Problemas comuns
 
